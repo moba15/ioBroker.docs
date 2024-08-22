@@ -16,7 +16,11 @@
    
     <img src="https://raw.githubusercontent.com/Bettman66/ioBroker.frigate/master/admin/frigate.png" width="100" height="100" />
 ```
-
+## HioB (2024-08-17) - new adapter
+- This adapter allows you to control your SmartHome system from your mobile phone (Android) or PC.
+- Features:
+  - Controll your states via the app
+  - Send notifications to your SmartPhone
 
 ## frigate (2023-08-20) - new adapter
 https://github.com/Bettman66/ioBroker.frigate
