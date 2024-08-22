@@ -25,6 +25,11 @@ hash: MqnS06VDetSr4sXhr7MZXNtQiSLV4YkL8HIBqzeuyWg=
 
     <img src="https://raw.githubusercontent.com/Bettman66/ioBroker.frigate/master/admin/frigate.png" width="100" height="100" />
 ```
+## HioB (2024-08-17) - neuer Adapter
+- Mit diesem Adapater kannst du über dein Handy (Android) oder PC dein SmartHome system steuern
+- Folgende basic Features beinhaltet die App:
+  - Normale steuerung von States 
+  - Senden von Notifications ans Handy
 
 ## Fregatte (2023-08-20) - neuer Adapter
 https://github.com/Bettman66/ioBroker.frigate
